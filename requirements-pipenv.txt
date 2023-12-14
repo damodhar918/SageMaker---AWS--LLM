@@ -1,0 +1,5 @@
+requirements.txt found in /root instead of Pipfile! Converting...
+✔ Success!
+Warning: Your Pipfile now contains pinned versions, if your requirements.txt 
+did. 
+We recommend updating your Pipfile to specify the "*" version, instead.

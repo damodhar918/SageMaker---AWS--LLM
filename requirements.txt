@@ -1,0 +1,10 @@
+boto3==1.26.70
+langchain==0.0.350
+numpy==1.23.5
+pandas==1.5.3
+sagemaker==2.132.0
+scikit_learn==1.2.1
+seaborn==0.13.0
+torch_xla==2.1.0
+tqdm==4.66.1
+transformers==4.36.0
